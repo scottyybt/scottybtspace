@@ -1,0 +1,8 @@
+activeContext: default
+contexts:
+    default:
+        host: https://app.gitpod.io
+        organizationID: 01968093-cf40-770f-af91-723dadd83ea7
+        userID: 01968093-cf6a-7d06-84f0-81a13f770035
+autoupdate: true
+releaseChannel: stable
